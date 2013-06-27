@@ -10,7 +10,7 @@ dependencies = ['nose2>=0.4.6', 'colorama>=0.2.5']
 
 setup(
     name='testsuite-prettyprint-outcomes',
-    version='0.1.0-alpha',
+    version='0.1.0-alpha.1',
     packages=get_packages(),
     url='',
     license='BSD3',
